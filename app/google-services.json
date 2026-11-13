@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95274518157",
+    "project_id": "signin-signout-lab",
+    "storage_bucket": "signin-signout-lab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95274518157:android:bf82386489330a930944c4",
+        "android_client_info": {
+          "package_name": "com.example.signinsignout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO86_ajNrsaRA_KVr-jcRnbT1A9O7RjlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

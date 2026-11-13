@@ -1,0 +1,16 @@
+========================================================================
+ THIS IS A PLACEHOLDER — DELETE THIS FILE.
+========================================================================
+You must download your OWN google-services.json from the Firebase console
+and place the REAL file here, at:  app/google-services.json
+
+How to get it:
+1. Go to https://console.firebase.google.com and create a project.
+2. Add an Android app. Use this EXACT package name:
+       com.example.signinsignout
+3. Download the generated google-services.json.
+4. Put it in the app/ folder (same folder this placeholder is in).
+5. Delete this placeholder file.
+
+The app will NOT build/run against Firebase until the real file is in place.
+========================================================================

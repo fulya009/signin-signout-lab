@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sign In / Sign Up</string>
+
+    <!-- Login screen -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="prompt_no_account">Don\'t have an account? Sign Up</string>
+
+    <!-- Register screen -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Sign up to get started</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="action_pick_image">Upload Photo</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="prompt_have_account">Already have an account? Sign In</string>
+
+    <!-- Home screen -->
+    <string name="welcome_user">Welcome, %1$s %2$s!</string>
+    <string name="action_sign_out">Sign Out</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_profile_image">Profile photo</string>
+</resources>
